@@ -17,7 +17,7 @@
 Offensive security professional with a dev background. I break things to understand how they work — then help make them resilient. Currently focused on **AppSec**, **Pentesting**, and **Red Team** operations, backed by hands-on experience building fullstack apps and IoT infrastructure.
 
 - 🔴 &nbsp;Certified Red Team Analyst (CRTA) & Red Team Infrastructure Developer (CRT-ID)
-- 🏆 &nbsp;Top 11 on [Hacking Club](https://app.hackingclub.com/profile/user/12763)
+- 🏆 &nbsp;Top 8 on [Hacking Club](https://app.hackingclub.com/profile/user/12763)
 - 🛠️ &nbsp;Building [cbxbb](https://github.com/cbxcvl) — a Bug Bounty automation platform
 - ✍️ &nbsp;Writing security research & writeups at [cbxcvl.xyz](https://cbxcvl.xyz)
 - 🌍 &nbsp;Português · English · Deutsch
