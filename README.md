@@ -91,7 +91,7 @@ Offensive security professional with 3+ years of hands-on development experience
 
 | Project | Contribution | Stars |
 |---|---|---|
-| [**Noctalia Shell**](https://github.com/noctalia-dev/noctalia-shell) | Bluetooth auto-connect for trusted devices — [commit](https://github.com/noctalia-dev/noctalia-shell/commit/cfaf900f3f7fe5975b6adbe6cb9cafca7497f3da) · shipped in v4.6.2 | 4.3k+ ⭐ |
+| [**Noctalia Shell**](https://github.com/noctalia-dev/noctalia-shell) | Bluetooth auto-connect for trusted devices — [Pull Request]([https://github.com/noctalia-dev/noctalia-shell/commit/cfaf900f3f7fe5975b6adbe6cb9cafca7497f3da](https://github.com/noctalia-dev/noctalia-shell/pull/1981)) · shipped in v4.6.2 | 4.3k+ ⭐ |
 
 ---
 
