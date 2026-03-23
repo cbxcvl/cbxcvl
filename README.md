@@ -6,7 +6,7 @@
 
 [![Blog](https://img.shields.io/badge/blog-cbxcvl.xyz-0a0a0a?style=flat-square&logo=hugo&logoColor=white)](https://cbxcvl.xyz)
 [![LinkedIn](https://img.shields.io/badge/linkedin-burattocarlos-0a0a0a?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/burattocarlos)
-[![Hacking Club](https://img.shields.io/badge/hacking%20club-top%204-0a0a0a?style=flat-square&logo=hackthebox&logoColor=white)](https://app.hackingclub.com/profile/user/12763)
+[![Hacking Club](https://img.shields.io/badge/hacking%20club-top%202-0a0a0a?style=flat-square&logo=hackthebox&logoColor=white)](https://app.hackingclub.com/profile/user/12763)
 
 </div>
 
@@ -17,7 +17,7 @@
 Offensive security professional with 3+ years of hands-on development experience. I break things to understand how they work — then help make them resilient. Currently focused on **AppSec**, **Pentesting**, and **Red Team** operations, backed by real-world experience shipping fullstack apps, IoT infrastructure, and embedded systems at scale.
 
 - 🔴 &nbsp;Certified Red Team Analyst (CRTA) & Red Team Infrastructure Developer (CRT-ID)
-- 🏆 &nbsp;Top 4 on [Hacking Club](https://app.hackingclub.com/profile/user/12763)
+- 🏆 &nbsp;Top 2 on [Hacking Club](https://app.hackingclub.com/profile/user/12763)
 - 🛠️ &nbsp;Building [cbxbb](https://github.com/cbxcvl) — a Bug Bounty automation platform
 - 🐧 &nbsp;Open source contributor — shipped Bluetooth auto-connect to [Noctalia Shell](https://github.com/noctalia-dev/noctalia-shell) (4.3k+ ⭐)
 - ✍️ &nbsp;Writing security research & writeups at [cbxcvl.xyz](https://cbxcvl.xyz)
